@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://www.shutterstock.com/image-vector/dotted-spiral-vortex-royaltyfree-images-2227567913" alt="kshitiz0302" /> </p>
 
-- 🔭 I’m currently working on **Video Chat App Clone**
+- 🔭 I’m currently working on **Food Delivery Website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
